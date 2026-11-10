@@ -1,5 +1,6 @@
 # 留言板 v1.0
 一個公用留言板。
+[連結](https://ng00sj.github.io/board_2/)
 
 ## 架設方法
 使用 Google Spreadsheets 外掛 Google Apps Script 來接收、發送以及存入、讀取資料。
